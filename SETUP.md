@@ -410,8 +410,8 @@ npm start
 
 ## Need Help?
 
-- Read [IMPLEMENTATION.md](./IMPLEMENTATION.md) for technical details
-- Read [SOLUTIONS.md](./SOLUTIONS.md) to compare solutions
+- Read [IMPLEMENTATION.md](IMPLEMENTATION.md) for technical details
+- Read [SOLUTIONS.md](SOLUTIONS.md) to compare solutions
 - Check [React Router docs](https://reactrouter.com/explanation/sessions-and-cookies)
 - Review [Microsoft Identity Platform docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
 
